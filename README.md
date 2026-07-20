@@ -1,4 +1,4 @@
-# Variveis-String ( armazenam cadeias de caracteres, nome e textos em geral ) para fazer a separeção de uma String usamos " utilizada também para armazenar sequência de caracteres, utilizada para exibir mensagens e gerar outros arquivos. Para opter um tamanho de uma String usamos a função len.
+# Variáveis-String ( armazenam cadeias de caracteres, nome e textos em geral ) para fazer a separeção de uma String usamos " utilizada também para armazenar sequência de caracteres, utilizada para exibir mensagens e gerar outros arquivos. Para opter um tamanho de uma String usamos a função len.
 len("A")
 1
 len("AB")
